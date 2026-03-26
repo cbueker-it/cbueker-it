@@ -20,7 +20,7 @@ Core Repositories
 
 [`windows-helpdesk-frameworks`](https://github.com/cbueker-it/windows-helpdesk-frameworks): Structured troubleshooting and IT support frameworks. 
 
-[`powershell-labs`](https://github.com/cbueker-it/powershell-labs):Administrative scripting and visibility tools.
+[`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
 
 [`splunk-labs`](https://github.com/cbueker-it/splunk-labs): Windows event monitoring and security detection.
 
@@ -32,7 +32,7 @@ Core Repositories
 
 [`ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
-Technical Development
+Current Technical Development
 
 Ongoing development includes selective technical reading, lab work, troubleshooting documentation, and structured concept building across Windows enterprise support, Linux systems, endpoint management, and IT infrastructure.
 
