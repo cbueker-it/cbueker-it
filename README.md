@@ -20,6 +20,8 @@ Core Repositories
 
 [`windows-helpdesk-frameworks`](https://github.com/cbueker-it/windows-helpdesk-frameworks): Structured troubleshooting and IT support frameworks. 
 
+[`active-directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
+
 [`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
 
 [`splunk-labs`](https://github.com/cbueker-it/splunk-labs): Windows event monitoring and security detection.
