@@ -22,6 +22,8 @@ Core Repositories
 
 [`active-directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
+[`windows-server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration lab covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
+
 [`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
 
 [`splunk-labs`](https://github.com/cbueker-it/splunk-labs): Windows event monitoring and security detection.
