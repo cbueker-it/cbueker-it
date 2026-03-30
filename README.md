@@ -26,8 +26,6 @@ Core Repositories
 
 [`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
 
-[`splunk-labs`](https://github.com/cbueker-it/splunk-labs): Windows event monitoring and security detection.
-
 [`bash-toolkit`](https://github.com/cbueker-it/bash-toolkit): Command-line utilities for systems work.
 
 [`bash-scripts`](https://github.com/cbueker-it/bash-scripts): Task automation scripts for routine system operations and workflow efficiency. 
