@@ -10,11 +10,11 @@ Focus areas include systems reliability, uptime, identity and access management,
 
 This profile documents my applied lab work, ongoing technical discipline, and hands-on projects in Windows, Linux, networking, and cybersecurity.
 
-Computer Science and Information Technology - Independent Technical Study
+**Computer Science and Information Technology** - Independent Technical Study
 
 [`computer-science-and-information-technology`](https://github.com/cbueker-it/computer-science-and-information-technology): Hands-on labs, technical reading, platform training, documented troubleshooting projects
 
-Core Repositories
+**Core Repositories**
 
 [`active-directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
@@ -32,7 +32,7 @@ Core Repositories
 
 [`ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
-Current Technical Development
+**Current Technical Development**
 
 Ongoing development includes selective technical reading, lab work, troubleshooting documentation, and structured concept building across Windows enterprise support, Linux systems, endpoint management, and IT infrastructure.
 
