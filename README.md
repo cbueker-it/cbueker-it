@@ -24,7 +24,7 @@ Core Repositories
 
 [`windows-server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration lab covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
-[`windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): 
+[`windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking lab covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
 [`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
 
