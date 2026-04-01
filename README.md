@@ -22,7 +22,7 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking lab covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
-[`powershell-labs`](https://github.com/cbueker-it/powershell-labs): Administrative scripting and visibility tools.
+[`powershell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration lab covering system review, service visibility, event log inspection, local user management, and basic automation.
 
 [`bash-toolkit`](https://github.com/cbueker-it/bash-toolkit): Command-line utilities for systems work.
 
