@@ -24,10 +24,6 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`powershell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration lab covering system review, service visibility, event log inspection, local user management, and basic automation.
 
-[`bash-toolkit`](https://github.com/cbueker-it/bash-toolkit): Command-line utilities for systems work.
-
-[`bash-scripts`](https://github.com/cbueker-it/bash-scripts): Task automation scripts for routine system operations and workflow efficiency. 
-
 [`efi-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
 
 [`ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
