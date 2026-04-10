@@ -22,7 +22,7 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 **Core Repositories**
 
-[`active-directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
+[`Active-Directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
 [`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration lab covering cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
 
@@ -30,17 +30,17 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`Intune-endpoint-administration-lab`](https://github.com/cbueker-it/intune-endpoint-administration-lab): Microsoft Intune lab covering device platform management, user and group administration, and Windows compliance policy workflow.
 
-[`windows-server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration lab covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
+[`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration lab covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
-[`windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking lab covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
+[`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking lab covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
-[`powershell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration lab covering system review, service visibility, event log inspection, local user management, and basic automation.
+[`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration lab covering system review, service visibility, event log inspection, local user management, and basic automation.
 
-[`linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration lab covering system review, resource monitoring, package maintenance, network visibility, and running service inspection.
+[`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration lab covering system review, resource monitoring, package maintenance, network visibility, and running service inspection.
 
-[`efi-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
+[`EFI-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
 
-[`ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
+[`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
 **Current Technical Development**
 
