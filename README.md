@@ -6,7 +6,13 @@ IT support professional with a background in technical SEO, web infrastructure, 
 
 Hands-on experience supporting Windows 10 and Windows 11 environments, troubleshooting Microsoft applications, resolving DNS and email delivery issues, and applying networking principles in live and lab environments.
 
-Focus areas include systems reliability, uptime, identity and access management, structured troubleshooting, and technical documentation with emphasis on practical business stability.
+Focus areas include:
+- Systems reliability
+- Uptime
+- Identity and access management
+- Structured troubleshooting
+- Technical documentation
+- Business stability
 
 This profile documents my applied lab work, ongoing technical discipline, and hands-on projects in Windows, Linux, networking, and cybersecurity.
 
