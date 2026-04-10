@@ -20,6 +20,8 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration lab covering cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
 
+[`Windows-Clonezilla-disk-clone-lab`](https://github.com/cbueker-it/windows-clonezilla-disk-clone-lab): Windows disk cloning lab covering virtual disk preparation, Clonezilla source-to-target imaging, storage troubleshooting, and post-clone Windows boot validation inside VirtualBox.
+
 [`Intune-endpoint-administration-lab`](https://github.com/cbueker-it/intune-endpoint-administration-lab): Microsoft Intune lab covering device platform management, user and group administration, and Windows compliance policy workflow.
 
 [`windows-server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration lab covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
