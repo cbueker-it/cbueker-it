@@ -34,6 +34,8 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking lab covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
+[`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management lab covering ticket creation, queue review, work note documentation, and incident resolution workflow.
+
 [`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration lab covering system review, service visibility, event log inspection, local user management, and basic automation.
 
 [`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration lab covering system review, resource monitoring, package maintenance, network visibility, and running service inspection.
