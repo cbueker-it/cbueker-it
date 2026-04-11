@@ -18,7 +18,7 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 **Computer Science and Information Technology** - Independent Technical Study
 
-[`computer-science-and-information-technology`](https://github.com/cbueker-it/computer-science-and-information-technology): Hands-on labs, technical reading, platform training, documented troubleshooting projects
+[`Computer-Science-and-Information-Technology`](https://github.com/cbueker-it/computer-science-and-information-technology): Hands-on labs, technical reading, platform training, documented troubleshooting projects
 
 **Core Repositories**
 
