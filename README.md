@@ -44,6 +44,8 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 [`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
+[`SunPath-SEO-technical-proof`](https://github.com/cbueker-it/sunpath-seo-technical-proof): Live website technical verification covering performance testing, security header review, HTTP response inspection, DNS validation, and Cloudflare infrastructure awareness.
+
 **Current Technical Development**
 
 Ongoing development includes selective technical reading, lab work, troubleshooting documentation, and structured concept building across Windows enterprise support, Linux systems, endpoint management, and IT infrastructure.
