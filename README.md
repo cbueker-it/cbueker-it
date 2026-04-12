@@ -14,7 +14,7 @@ Focus areas include:
 - Technical documentation
 - Business stability
 
-This profile documents my applied lab work, ongoing technical discipline, and hands-on projects in Windows, Linux, networking, and cybersecurity.
+My GitHub profile documents my applied lab work, ongoing technical discipline, and hands-on projects in Windows, Linux, networking, and cybersecurity.
 
 **Computer Science and Information Technology** - Independent Technical Study
 
