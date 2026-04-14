@@ -6,7 +6,7 @@ I am an IT support professional with a background in technical SEO, web infrastr
 
 My technical development has been built through hands-on systems work, documented labs, technical reading, and independent study across operating systems, networking, and enterprise support technologies.
 
-I have practical experience working in Windows 10 and Windows 11 environments, troubleshooting Microsoft applications, resolving DNS and email delivery issues, and applying networking principles in both live and lab environments.
+I have hands-on experience working in Windows 10 and Windows 11 environments, troubleshooting Microsoft applications, resolving DNS and email delivery issues, and applying networking principles in both live and lab environments.
 
 The areas I continue to focus on include:
 
