@@ -35,6 +35,8 @@ My GitHub profile documents the lab work, technical discipline, and hands-on pro
 
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
+[`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
+
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
 [`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
