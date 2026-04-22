@@ -37,6 +37,8 @@ My GitHub profile documents the lab work, technical discipline, and hands-on pro
 
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
 
+[`Windows-security-logon-event-review`](https://github.com/cbueker-it/windows-security-logon-event-review): Windows Security log review covering failed login detection, successful login verification, timestamp comparison, and authentication event analysis in Event Viewer.
+
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
 [`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
