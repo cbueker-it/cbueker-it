@@ -1,23 +1,23 @@
 **Christopher Bueker**
 
-IT Support | Systems Administration | IT and Web Infrastructure
+IT Support | Networking and IT Infrastructure | Cybersecurity
 
-I am an IT support professional with a background in technical SEO, web infrastructure, and structured troubleshooting.
+I am an IT professional who enjoys understanding how systems, networks, and technologies interact.
 
-My technical development has been built through hands-on systems work, documented labs, technical reading, and independent study across operating systems, networking, and enterprise support technologies.
+My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my practical knowledge in networking, IT infrastructure, systems and Linux administration, and cybersecurity.
 
-I have hands-on experience working in Windows 10 and Windows 11 environments, troubleshooting Microsoft applications, resolving DNS and email delivery issues, and applying networking principles in both live and lab environments.
+Areas of focus:
 
-The areas I continue to focus on include:
+Networking and Security
+Windows Server
+Linux Administration
+Packet Analysis
+Infrastructure Operations
+Technical Documentation
+Incident Analysis
+Structured Troubleshooting
 
-- Systems reliability
-- Uptime
-- Identity and access management
-- Structured troubleshooting
-- Technical documentation
-- Business stability
-
-My GitHub profile documents the lab work, technical discipline, and hands-on projects that continue to shape how I think through systems and technical problems.
+My GitHub profile is a collection of documented projects that demonstrate both technical skills and the investigative process. This is a space that shows my technical understanding and how I solve real-world technology problems.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
