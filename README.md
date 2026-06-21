@@ -11,11 +11,11 @@ Areas of focus:
 - Networking and Security
 - Windows Server
 - Linux Administration
-- Packet Analysis
 - Infrastructure Operations
-- Technical Documentation
-- Incident Analysis
+- Monitoring and Incident Response
+- Packet Analysis
 - Structured Troubleshooting
+- Technical Documentation
 
 My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process that I go through. This is a space that shows my technical understanding and how I solve real-world technology problems.
 
