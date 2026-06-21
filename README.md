@@ -25,6 +25,8 @@ My GitHub profile documents the lab work, technical discipline, and hands-on pro
 
 **Core Repositories**
 
+[`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
+
 [`Active-Directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
 [`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration walkthrough, which covers cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
