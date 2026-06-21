@@ -1,6 +1,6 @@
 **Christopher Bueker**
 
-IT Support | Networking and IT Infrastructure | Cybersecurity
+Networking | IT Infrastructure | Cybersecurity
 
 I work as an IT professional. I like understanding how systems, networks, and technologies work together to support organizations and the people they serve. Whether for small businesses or enterprise environments, reliable technology helps employees remain productive, enables organizations to serve their customers and communities, and supports long-term operational success. I am interested in the relationship between technology, business operations, and workplace stability.
 
