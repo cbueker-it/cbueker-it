@@ -2,9 +2,9 @@
 
 IT Support | Networking and IT Infrastructure | Cybersecurity
 
-I am an IT professional who enjoys understanding how systems, networks, and technologies interact.
+I work as an IT professional. I like understanding how systems, networks, and technologies work together to support organizations and the people they serve. Whether for small businesses or enterprise environments, reliable technology helps employees remain productive, enables organizations to serve their customers and communities, and supports long-term operational success. I am interested in the relationship between technology, business operations, and workplace stability.
 
-My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my practical knowledge in networking, IT infrastructure, systems and Linux administration, and cybersecurity.
+My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my practical knowledge in networking, IT infrastructure, operating systems, Linux administration, and cybersecurity.
 
 Areas of focus:
 
@@ -17,7 +17,7 @@ Technical Documentation
 Incident Analysis
 Structured Troubleshooting
 
-My GitHub profile is a collection of documented projects that demonstrate both technical skills and the investigative process. This is a space that shows my technical understanding and how I solve real-world technology problems.
+My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process that I go through. This is a space that shows my technical understanding and how I solve real-world technology problems.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
