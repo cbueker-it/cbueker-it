@@ -2,7 +2,9 @@
 
 Networking | IT Infrastructure | Cybersecurity
 
-I work as an IT professional. I like understanding how systems, networks, and technologies work together to support organizations and the people they serve. Whether for small businesses or enterprise environments, reliable technology helps employees remain productive, enables organizations to serve their customers and communities, and supports long-term operational success. I am interested in the relationship between technology, business operations, and workplace stability.
+I work as a Command Center Analyst for a large American corporation.
+
+I like understanding how systems, networks, and technologies work together to support organizations and the people they serve. Whether for small businesses or enterprise environments, reliable technology helps employees remain productive, enables organizations to serve their customers and communities, and supports long-term operational success. I am interested in the relationship between technology, business operations, and workplace stability.
 
 My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my practical knowledge in networking, IT infrastructure, operating systems, Linux administration, and cybersecurity.
 
