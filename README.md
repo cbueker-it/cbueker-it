@@ -27,6 +27,8 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Core Repositories**
 
+[`Debian-Secure-Build`](https://github.com/cbueker-it/debian-secure-build): Debian 13 workstation deployment project covering encrypted LVM, Cinnamon desktop setup, UFW firewall configuration, network verification, SSH exposure reduction, and technical documentation.
+
 [`Linux-Mint-Secure-Deployment`](https://github.com/cbueker-it/linux-mint-secure-deployment): Linux Mint workstation deployment project covering bootable USB creation, UEFI installation, disk recovery with TestDisk and PhotoRec, network verification, UFW firewall configuration, system updates, and technical documentation.
 
 [`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
