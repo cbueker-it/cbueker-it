@@ -19,7 +19,7 @@ Areas of focus:
 - Structured Troubleshooting
 - Technical Documentation
 
-My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process that I go through. This is a space that shows my technical understanding and how I solve real-world technology problems.
+My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process that I go through. This is a space that documents my technical understanding and how I solve real-world technology problems.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
@@ -27,21 +27,11 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Core Repositories**
 
-[`Debian-Secure-Build`](https://github.com/cbueker-it/debian-secure-build): Debian 13 workstation deployment project covering encrypted LVM, Cinnamon desktop setup, UFW firewall configuration, network verification, SSH exposure reduction, and technical documentation.
-
-[`Linux-Mint-Secure-Deployment`](https://github.com/cbueker-it/linux-mint-secure-deployment): Linux Mint workstation deployment project covering bootable USB creation, UEFI installation, disk recovery with TestDisk and PhotoRec, network verification, UFW firewall configuration, system updates, and technical documentation.
-
-[`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
-
-[`Linux-Desktop-Optimization`](https://github.com/cbueker-it/linux-desktop-optimization): Linux desktop and workstation optimization project covering desktop layout customization, icon configuration, dock optimization, workspace organization, and technical documentation for Ubuntu and Linux Mint desktops.
+Windows Administration
 
 [`Active-Directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
 [`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration walkthrough, which covers cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
-
-[`Windows-Clonezilla-disk-clone-lab`](https://github.com/cbueker-it/windows-clonezilla-disk-clone-lab): Windows disk cloning via Clonezilla; it covers virtual disk preparation, source-to-target imaging, storage troubleshooting, and post-clone Windows boot validation inside VirtualBox.
-
-[`Intune-endpoint-administration-lab`](https://github.com/cbueker-it/intune-endpoint-administration-lab): Microsoft Intune walkthrough covering device platform management, user and group administration, and Windows compliance policy workflow.
 
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
@@ -49,24 +39,42 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 [`Windows-security-logon-event-review`](https://github.com/cbueker-it/windows-security-logon-event-review): Windows Security log review covering failed login detection, successful login verification, timestamp comparison, and authentication event analysis in Event Viewer.
 
-[`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
+Workstation Deployment | End User Support
 
-[`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
+[`Windows-Clonezilla-disk-clone-lab`](https://github.com/cbueker-it/windows-clonezilla-disk-clone-lab): Windows disk cloning via Clonezilla; it covers virtual disk preparation, source-to-target imaging, storage troubleshooting, and post-clone Windows boot validation inside VirtualBox.
 
-[`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
+[`Debian-Secure-Build`](https://github.com/cbueker-it/debian-secure-build): Debian 13 workstation deployment project covering encrypted LVM, Cinnamon desktop setup, UFW firewall configuration, network verification, SSH exposure reduction, and technical documentation.
 
-[`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration exploration covering system review, resource monitoring, package maintenance, network visibility, and running service inspection.
+[`Linux-Mint-Secure-Deployment`](https://github.com/cbueker-it/linux-mint-secure-deployment): Linux Mint workstation deployment project covering bootable USB creation, UEFI installation, disk recovery with TestDisk and PhotoRec, network verification, UFW firewall configuration, system updates, and technical documentation.
+
+[`Linux-Desktop-Optimization`](https://github.com/cbueker-it/linux-desktop-optimization): Linux desktop and workstation optimization project covering desktop layout customization, icon configuration, dock optimization, workspace organization, and technical documentation for Ubuntu and Linux Mint desktops.
 
 [`EFI-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
 
-[`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
+[`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04. 
+
+Networking and Infrastructure
+
+[`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
+
+[`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
 
 [`SunPath-SEO-technical-proof`](https://github.com/cbueker-it/sunpath-seo-technical-proof): Live website technical verification covering performance testing, security header review, HTTP response inspection, DNS validation, and Cloudflare infrastructure awareness.
 
 [`Wordpress-christopherbueker-technical-proof`](https://github.com/cbueker-it/wordpress-christopherbueker-technical-proof): Live WordPress technical proof - improvements in site performance, security header review, HTTP response inspection, DNS verification, and Cloudflare-backed delivery.
 
+Systems Administration
+
+[`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
+
+[`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration exploration covering system review, resource monitoring, package maintenance, network visibility, and running service inspection. 
+
+[`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
+
 **Current Technical Development**
 
-I read and work through technical documentation, troubleshoot, and build structured concepts across Windows enterprise support, Linux systems, endpoint management, and IT infrastructure.
+Currently, I am building business-valuable skills in systems administration, workstation deployment, endpoint support, Windows administration, Linux administration, networking, and troubleshooting.
+
+I like knowing how systems are installed, secured, configured, optimized, and maintained. I also enjoy creating systems that are reliable, practical, and reduce friction for end users and business operations.
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
