@@ -10,7 +10,7 @@ Whether for small businesses or enterprise environments, dependable technology h
 
 My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my business-aligned knowledge in endpoint deployment, workstation support, systems administration, networking, IT infrastructure, and Linux administration.
 
-Areas of focus:
+**Areas of focus**
 
 - Operating System Deployment
 - Workstation Configuration and Optimization
@@ -31,7 +31,7 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Core Repositories**
 
-Windows Administration
+**Windows Administration**
 
 [`Active-Directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
@@ -43,7 +43,7 @@ Windows Administration
 
 [`Windows-security-logon-event-review`](https://github.com/cbueker-it/windows-security-logon-event-review): Windows Security log review covering failed login detection, successful login verification, timestamp comparison, and authentication event analysis in Event Viewer.
 
-Workstation Deployment | End User Support
+**Workstation Deployment | End User Support**
 
 [`Windows-Clonezilla-disk-clone-lab`](https://github.com/cbueker-it/windows-clonezilla-disk-clone-lab): Windows disk cloning via Clonezilla; it covers virtual disk preparation, source-to-target imaging, storage troubleshooting, and post-clone Windows boot validation inside VirtualBox.
 
@@ -57,7 +57,7 @@ Workstation Deployment | End User Support
 
 [`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04. 
 
-Networking and Infrastructure
+**Networking and Infrastructure**
 
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
@@ -67,7 +67,7 @@ Networking and Infrastructure
 
 [`Wordpress-christopherbueker-technical-proof`](https://github.com/cbueker-it/wordpress-christopherbueker-technical-proof): Live WordPress technical proof - improvements in site performance, security header review, HTTP response inspection, DNS verification, and Cloudflare-backed delivery.
 
-Systems Administration
+**Systems Administration**
 
 [`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
 
