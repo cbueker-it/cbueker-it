@@ -1,6 +1,6 @@
 **Christopher Bueker**
 
-IT Technician | Endpoint Deployment | Junior Sysadmin
+IT Technician | Endpoint Deployment | Junior Systems Administrator
 
 For my day job, I work as a Command Center Analyst for a major corporation.
 
@@ -23,7 +23,7 @@ Areas of focus:
 - Structured Troubleshooting
 - Technical Documentation
 
-My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process that I go through. This is a space that documents my technical understanding and how I solve real-world technology problems.
+My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process I use to solve real-world technology problems.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
