@@ -4,18 +4,22 @@ IT Technician | Endpoint Deployment | Junior Sysadmin
 
 For my day job, I work as a Command Center Analyst for a major corporation.
 
-I like understanding how systems, networks, and technologies work together to support organizations and the people they serve. Whether for small businesses or enterprise environments, reliable technology helps employees remain productive, enables organizations to serve their customers and communities, and supports long-term operational success. I am interested in the relationship between technology, business operations, and workplace stability.
+I like understanding how operating systems, workstations, networks, and business technologies work together to support organizations and the people they serve. I enjoy installing, configuring, troubleshooting, and improving systems so they are reliable, practical, and easier for people to use.
 
-My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my practical knowledge in networking, IT infrastructure, operating systems, Linux administration, and cybersecurity.
+Whether for small businesses or enterprise environments, dependable technology helps employees stay productive, reduces friction, and supports long-term operational stability. I am interested in the relationship between technology, business operations, user support, and workplace stability.
+
+My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my business-aligned knowledge in endpoint deployment, workstation support, systems administration, networking, IT infrastructure, and Linux administration.
 
 Areas of focus:
 
-- Networking and Security
-- Windows Server
+- Operating System Deployment
+- Workstation Configuration and Optimization
+- Endpoint Support
+- Windows Administration
 - Linux Administration
+- Networking and Connectivity
 - Infrastructure Operations
 - Monitoring and Incident Response
-- Packet Analysis
 - Structured Troubleshooting
 - Technical Documentation
 
