@@ -1,6 +1,6 @@
 **Christopher Bueker**
 
-Networking | IT Infrastructure | Cybersecurity
+IT Technician | Endpoint Deployment | Junior Sysadmin
 
 For my day job, I work as a Command Center Analyst for a major corporation.
 
