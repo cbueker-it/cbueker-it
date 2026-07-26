@@ -1,6 +1,6 @@
 **Christopher Bueker**
 
-IT Technician | Endpoint Deployment | Junior Systems Administrator
+**IT Technician | Endpoint Deployment | Junior Systems Administrator**
 
 For my day job, I work as a Command Center Analyst for a major corporation.
 
