@@ -59,6 +59,8 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Networking and Infrastructure**
 
+[`Post-Incident-Service-Restoration-Validation`](https://github.com/cbueker-it/post-incident-service-restoration-validation): Post-incident validation of home Internet service restoration following a storm-related power outage using CLI tools.
+
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
 
 [`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
