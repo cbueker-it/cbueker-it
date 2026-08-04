@@ -59,6 +59,8 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Networking and Infrastructure**
 
+[`SunPath-SEO-to-SunPath-IT-site-migration`](https://github.com/cbueker-it/sunpath-seo-to-sunpath-it-site-migration): Business website migration covering WordPress, hosting, DNS, Cloudflare, HTTP 301 redirects, and Linux validation.
+
 [`Post-Incident-Service-Restoration-Validation`](https://github.com/cbueker-it/post-incident-service-restoration-validation): Post-incident validation of home Internet service restoration following a storm-related power outage using CLI tools.
 
 [`Windows-networking-lab`](https://www.github.com/cbueker-it/windows-networking-lab): Windows networking walkthrough covering static IP setup, DNS configuration, adapter review, and command-line connectivity.
