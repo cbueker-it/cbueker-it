@@ -73,6 +73,8 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 **Systems Administration**
 
+[`Device-Hostname-Naming-Standardization`](https://github.com/cbueker-it/device-hostname-naming-standardization): Device and hostname naming standardization lab documenting a simulated home and small-business environment using naming standards, Linux and Windows validation, and Nmap discovery.
+
 [`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
 
 [`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration exploration covering system review, resource monitoring, package maintenance, network visibility, and running service inspection. 
