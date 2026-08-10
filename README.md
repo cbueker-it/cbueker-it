@@ -81,10 +81,4 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 [`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
 
-**Current Technical Development**
-
-Currently, I am building business-valuable skills in systems administration, workstation deployment, endpoint support, Windows administration, Linux administration, networking, and troubleshooting.
-
-I like knowing how systems are installed, secured, configured, optimized, and maintained. I also enjoy creating systems that are reliable, practical, and reduce friction for end users and business operations.
-
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
