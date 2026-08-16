@@ -35,6 +35,8 @@ My GitHub profile is a collection of documented projects that demonstrate both m
 
 [`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration walkthrough, which covers cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
 
+[`Intune-Defender-Firewall-Management`](https://github.com/cbueker-it/Intune-Defender-Firewall-Management): Microsoft Intune endpoint security lab covering device security group targeting, centralized Microsoft Defender Firewall policy deployment, and Windows 11 endpoint verification using the GUI and PowerShell.
+
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
