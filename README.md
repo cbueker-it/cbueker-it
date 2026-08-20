@@ -21,7 +21,7 @@ My technical development includes hands-on learning, documentation, troubleshoot
 - Structured Troubleshooting
 - Technical Documentation
 
-My GitHub profile is a collection of documented projects that demonstrate both my technical skills and the investigative process I use to solve real-world technology problems.
+My IT portfolio is a collection of related documented projects that demonstrate both my technical skills and the investigative process I use to solve real-world technology problems.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
