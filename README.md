@@ -37,6 +37,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Intune-Defender-Firewall-Management`](https://github.com/cbueker-it/Intune-Defender-Firewall-Management): Microsoft Intune endpoint security lab covering device security group targeting, centralized Microsoft Defender Firewall policy deployment, and Windows 11 endpoint verification using the GUI and PowerShell.
 
+[`Intune-Update-Ring-Management`](https://github.com/cbueker-it/Intune-Update-Ring-Management): Microsoft Intune lab covering Windows Update ring configuration, device-group targeting, deployment monitoring, and endpoint validation on a managed Windows 11 workstation.
+
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
