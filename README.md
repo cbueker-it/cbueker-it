@@ -47,8 +47,6 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 **Workstation Deployment | End User Support**
 
-[`Windows-Clonezilla-disk-clone-lab`](https://github.com/cbueker-it/windows-clonezilla-disk-clone-lab): Windows disk cloning via Clonezilla; it covers virtual disk preparation, source-to-target imaging, storage troubleshooting, and post-clone Windows boot validation inside VirtualBox.
-
 [`Debian-Secure-Build`](https://github.com/cbueker-it/debian-secure-build): Debian 13 workstation deployment project covering encrypted LVM, Cinnamon desktop setup, UFW firewall configuration, network verification, SSH exposure reduction, and technical documentation.
 
 [`Linux-Mint-Secure-Deployment`](https://github.com/cbueker-it/linux-mint-secure-deployment): Linux Mint workstation deployment project covering bootable USB creation, UEFI installation, disk recovery with TestDisk and PhotoRec, network verification, UFW firewall configuration, system updates, and technical documentation.
