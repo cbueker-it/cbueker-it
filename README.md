@@ -55,10 +55,6 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Linux-Desktop-Optimization`](https://github.com/cbueker-it/linux-desktop-optimization): Linux desktop and workstation optimization project covering desktop layout customization, icon configuration, dock optimization, workspace organization, and technical documentation for Ubuntu and Linux Mint desktops.
 
-[`EFI-firmware-recovery`](https://github.com/cbueker-it/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
-
-[`Ubuntu-suspend-debugging`](https://github.com/cbueker-it/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04. 
-
 **Networking and Infrastructure**
 
 [`Home-Networking-Troubleshooting-Guide`](https://github.com/cbueker-it/home-networking-troubleshooting-guide): Structured home-network troubleshooting using Debian, routing, DNS, ping, HTTP validation, and a repeatable decision-tree process.
