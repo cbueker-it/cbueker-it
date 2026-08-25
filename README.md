@@ -10,15 +10,15 @@ My technical development includes hands-on learning, documentation, troubleshoot
 
 **Areas of focus**
 
+- Infrastructure Operations
+- Networking and Connectivity
+- Monitoring and Incident Response
+- Structured Troubleshooting
 - Operating System Deployment
 - Workstation Configuration and Optimization
 - Endpoint Support
 - Windows Administration
 - Linux Administration
-- Networking and Connectivity
-- Infrastructure Operations
-- Monitoring and Incident Response
-- Structured Troubleshooting
 - Technical Documentation
 
 My IT portfolio is a collection of related documented projects that demonstrate both my technical skills and the investigative process I use to solve real-world technology problems.
