@@ -33,15 +33,15 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Active-Directory-lab`](https://github.com/cbueker-it/active-directory-lab): Windows Server Active Directory lab covering domain setup, static IP and DNS configuration, user and group administration, and Group Policy security settings.
 
-[`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration walkthrough, which covers cloud user creation, password resets, MFA, license assignment, group management, and Microsoft Entra identity review.
+[`Microsoft-365-Admin-Center-lab`](https://github.com/cbueker-it/microsoft-365-admin-center-lab): Microsoft 365 administration walkthrough, covers cloud user creation, password resets, MFA, license assignment, and group management.
 
-[`Intune-Defender-Firewall-Management`](https://github.com/cbueker-it/Intune-Defender-Firewall-Management): Microsoft Intune endpoint security lab covering device security group targeting, centralized Microsoft Defender Firewall policy deployment, and Windows 11 endpoint verification using the GUI and PowerShell.
+[`Intune-Defender-Firewall-Management`](https://github.com/cbueker-it/Intune-Defender-Firewall-Management): Microsoft Intune endpoint security lab covering device security group targeting and centralized Microsoft Defender Firewall policy deployment.
 
 [`Intune-Update-Ring-Management`](https://github.com/cbueker-it/Intune-Update-Ring-Management): Microsoft Intune lab covering Windows Update ring configuration, device-group targeting, deployment monitoring, and endpoint validation on a managed Windows 11 workstation.
 
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
-[`Windows-11-Resource-Monitoring`](https://github.com/cbueker-it/Windows-11-Resource-Monitoring): Windows 11 resource-monitoring lab using Task Manager and Resource Monitor to establish a baseline, observe a controlled Microsoft Defender workload, identify process-level CPU activity, and validate recovery.
+[`Windows-11-Resource-Monitoring`](https://github.com/cbueker-it/Windows-11-Resource-Monitoring): Windows 11 resource-monitoring lab using Task Manager and Resource Monitor to establish a baseline, observe a workload, identify CPU activity, and validate recovery.
 
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
 
