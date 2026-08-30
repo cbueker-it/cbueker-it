@@ -41,6 +41,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Windows-Server-2022-lab`](https://github.com/cbueker-it/windows-server-2022-lab): Windows Server 2022 administration tasks covering local server review, update management, service monitoring, event log analysis, disk management, and firewall verification.
 
+[`Windows-11-Resource-Monitoring`](https://github.com/cbueker-it/Windows-11-Resource-Monitoring): Windows 11 resource-monitoring lab using Task Manager and Resource Monitor to establish a baseline, observe a controlled Microsoft Defender workload, identify process-level CPU activity, and validate recovery.
+
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
 
 [`Windows-security-logon-event-review`](https://github.com/cbueker-it/windows-security-logon-event-review): Windows Security log review covering failed login detection, successful login verification, timestamp comparison, and authentication event analysis in Event Viewer.
