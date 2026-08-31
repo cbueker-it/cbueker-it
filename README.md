@@ -43,6 +43,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Windows-11-Resource-Monitoring`](https://github.com/cbueker-it/Windows-11-Resource-Monitoring): Windows 11 resource-monitoring lab using Task Manager and Resource Monitor to establish a baseline, observe a workload, identify CPU activity, and validate recovery.
 
+[`Windows-Server-Network-Configuration-Validation`](https://github.com/cbueker-it/Windows-Server-Network-Configuration-Validation): Windows Server networking lab covering static IPv4 and DNS configuration, connectivity testing, route visibility, and validation.
+
 [`Event-Viewer-DNS-monitoring-lab`](https://github.com/cbueker-it/event-viewer-dns-monitoring-lab): Event Viewer DNS warning review covering system log analysis, Event ID interpretation, and DNS verification using `nslookup`.
 
 [`Windows-security-logon-event-review`](https://github.com/cbueker-it/windows-security-logon-event-review): Windows Security log review covering failed login detection, successful login verification, timestamp comparison, and authentication event analysis in Event Viewer.
