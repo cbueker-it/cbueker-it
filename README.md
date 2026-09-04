@@ -57,6 +57,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 **Networking and Infrastructure**
 
+[`Home-Network-Topology-Chart`](https://github.com/cbueker-it/Home-Network-Topology-Chart): Home lab documentation covering physical and virtual topology, device inventory, standardized naming, network relationships, and infrastructure awareness.
+
 [`Home-Networking-Troubleshooting-Guide`](https://github.com/cbueker-it/home-networking-troubleshooting-guide): Structured home-network troubleshooting using Debian, routing, DNS, ping, HTTP validation, and a repeatable decision-tree process.
 
 [`SunPath-IT-site-migration`](https://github.com/cbueker-it/sunpath-it-site-migration): Business website migration covering WordPress, hosting, DNS, Cloudflare, HTTP 301 redirects, and Linux validation.
