@@ -75,9 +75,11 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 **Systems Administration**
 
-[`Device-Hostname-Naming-Standardization`](https://github.com/cbueker-it/device-hostname-naming-standardization): Device and hostname naming standardization lab documenting a simulated home and small-business environment using naming standards, Linux and Windows validation, and Nmap discovery.
-
 [`Effective-IT-Work-Instructions`](https://github.com/cbueker-it/effective-it-work-instructions): Business guide for creating clear and consistent IT work instructions covering purposeful screenshots, validation, escalation, and operational standardization.
+
+[`Windows-Server-Network-Recovery-Work-Instruction`](https://github.com/cbueker-it/Windows-Server-Network-Recovery-Work-Instruction): Windows Server 2022 work instruction covering structured network adapter troubleshooting, first-line remediation, recovery validation, escalation boundaries, and incident documentation.
+
+[`Device-Hostname-Naming-Standardization`](https://github.com/cbueker-it/device-hostname-naming-standardization): Device and hostname naming standardization lab documenting a simulated home and small-business environment using naming standards, Linux and Windows validation, and Nmap discovery.
 
 [`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
 
