@@ -1,6 +1,4 @@
-**Christopher Bueker**
-
-For my day job, I work as a Command Center Analyst in the Infrastructure Operations Center for a major corporation.
+Hello! My name is **Christopher Bueker**.
 
 I like understanding how operating systems, workstations, networks, and business technologies work together to support organizations and the people they serve. I enjoy installing, configuring, troubleshooting, and improving systems so they are reliable, practical, and easier for people to use.
 
