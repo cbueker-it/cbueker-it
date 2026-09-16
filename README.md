@@ -79,6 +79,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Windows-Server-Network-Recovery-Work-Instruction`](https://github.com/cbueker-it/Windows-Server-Network-Recovery-Work-Instruction): Windows Server 2022 work instruction covering structured network adapter troubleshooting, first-line remediation, recovery validation, escalation boundaries, and incident documentation.
 
+[`K12-Chromebook-Support-Lab`](https://github.com/cbueker-it/k12-chromebook-support-lab): K-12 Chromebook support lab covering Google Admin Console orientation, ChromeOS device lifecycle, centralized policy, troubleshooting, recovery, and reuse.
+
 [`Device-Hostname-Naming-Standardization`](https://github.com/cbueker-it/device-hostname-naming-standardization): Device and hostname naming standardization lab documenting a simulated home and small-business environment using naming standards, Linux and Windows validation, and Nmap discovery.
 
 [`PowerShell-administration-lab`](https://github.com/cbueker-it/powershell-administration-lab): PowerShell administration check covering system review, service visibility, event log inspection, local user management, and basic automation.
