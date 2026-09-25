@@ -53,6 +53,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Linux-Mint-Secure-Deployment`](https://github.com/cbueker-it/linux-mint-secure-deployment): Linux Mint workstation deployment project covering bootable USB creation, UEFI installation, disk recovery with TestDisk and PhotoRec, network verification, UFW firewall configuration, system updates, and technical documentation.
 
+[`Structured-Printer-Troubleshooting-Decision-Tree`](https://github.com/cbueker-it/Structured-Printer-Troubleshooting-Decision-Tree): Structured Windows printer troubleshooting covering scope, physical validation, print queues, connectivity, drivers, ports, and Print Spooler.
+
 [`Linux-Desktop-Optimization`](https://github.com/cbueker-it/linux-desktop-optimization): Linux desktop and workstation optimization project covering desktop layout customization, icon configuration, dock optimization, workspace organization, and technical documentation for Ubuntu and Linux Mint desktops.
 
 **Networking and Infrastructure**
