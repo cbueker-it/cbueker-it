@@ -63,6 +63,8 @@ My IT portfolio is a collection of related documented projects that demonstrate 
 
 [`Home-Networking-Troubleshooting-Guide`](https://github.com/cbueker-it/home-networking-troubleshooting-guide): Structured home-network troubleshooting using Debian, routing, DNS, ping, HTTP validation, and a repeatable decision-tree process.
 
+[`Small-Church-Network-Design`](https://github.com/cbueker-it/Small-Church-Network-Design): Conceptual church network design covering VLAN segmentation, managed switching, PoE, wireless access, and firewall policy.
+
 [`SunPath-IT-site-migration`](https://github.com/cbueker-it/sunpath-it-site-migration): Business website migration covering WordPress, hosting, DNS, Cloudflare, HTTP 301 redirects, and Linux validation.
 
 [`Post-Incident-Service-Restoration-Validation`](https://github.com/cbueker-it/post-incident-service-restoration-validation): Post-incident validation of home Internet service restoration following a storm-related power outage using CLI tools.
