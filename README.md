@@ -1,25 +1,31 @@
-Hello! My name is **Christopher Bueker**. I am an IT Technician. 
+Hello! My name is **Christopher Bueker**. I work as an IT Technician with a background in digital and inbound marketing, technical SEO, and web systems administration.
 
-I like understanding how operating systems, workstations, networks, and business technologies work together to support organizations and the people they serve. I enjoy installing, configuring, troubleshooting, and improving systems so they are reliable, practical, and easier for people to use.
+I enjoy understanding how IT infrastructure, operating systems, networks, websites, and digital technologies work together to support organizations and the people they serve. My interests include installing, configuring, troubleshooting, securing, and optimizing systems to improve reliability, website performance, user experience, and business operations.
 
-Whether for small businesses or enterprise environments, dependable technology helps employees stay productive, reduces friction, and supports long-term operational stability. I am interested in the relationship between technology, business operations, user support, and workplace stability.
+My background brings together IT infrastructure and digital marketing, allowing me to approach business technology from both a technical and customer-focused perspective.
 
-My technical development includes hands-on learning, documentation, troubleshooting, and continuous improvement. Through professional experience, independent study, and home lab projects, I feature my business-aligned knowledge in endpoint deployment, workstation support, systems administration, networking, IT infrastructure, and Linux administration.
+**Areas of Focus**
 
-**Areas of focus**
-
-- Infrastructure Operations
+- IT Infrastructure Operations
 - Networking and Connectivity
 - Monitoring and Incident Response
 - Structured Troubleshooting
 - Operating System Deployment
-- Workstation Configuration and Optimization
 - Endpoint Support
-- Windows Administration
-- Linux Administration
+- Windows and Linux Administration
 - Technical Documentation
+- WordPress
+- Technical SEO and GEO/AEO
+- Website Hygiene and Performance
+- Conversion Optimization
+- Copywriting
+- Keyword Research
 
-My IT portfolio is a collection of related documented projects that demonstrate both my technical skills and the investigative process I use to solve real-world technology problems.
+**My IT Portfolio**
+
+My IT portfolio is a collection of related, documented projects that demonstrate my technical skills, digital marketing knowledge, and the investigative process I use to solve real-world technology problems.
+
+These projects reflect my interest in connecting technology with business operations to improve systems, support users, and create meaningful organizational value.
 
 **Computer Science and Information Technology** | Independent Technical Study
 
