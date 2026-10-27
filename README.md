@@ -63,7 +63,7 @@ These projects reflect my interest in connecting technology with business operat
 
 [`Linux-Desktop-Optimization`](https://github.com/cbueker-it/linux-desktop-optimization): Linux desktop and workstation optimization project covering desktop layout customization, icon configuration, dock optimization, workspace organization, and technical documentation for Ubuntu and Linux Mint desktops.
 
-**Networking and Infrastructure**
+**Networking | IT Infrastructure**
 
 [`Home-Network-Topology-Chart`](https://github.com/cbueker-it/Home-Network-Topology-Chart): Home lab documentation covering physical and virtual topology, device inventory, standardized naming, network relationships, and infrastructure awareness.
 
