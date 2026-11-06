@@ -66,6 +66,8 @@ These projects reflect my interest in understanding how physical infrastructure,
 
 **Networking | IT Infrastructure**
 
+[`Data-Center-Cooling-Operations-Overview`](https://github.com/cbueker-it/Data-Center-Cooling-Operations-Overview): Study of data center cooling infrastructure, chilled-water systems, environmental monitoring, and incident escalation workflows.
+
 [`Home-Network-Topology-Chart`](https://github.com/cbueker-it/Home-Network-Topology-Chart): Home lab documentation covering physical and virtual topology, device inventory, standardized naming, network relationships, and infrastructure awareness.
 
 [`Home-Networking-Troubleshooting-Guide`](https://github.com/cbueker-it/home-networking-troubleshooting-guide): Structured home-network troubleshooting using Debian, routing, DNS, ping, HTTP validation, and a repeatable decision-tree process.
