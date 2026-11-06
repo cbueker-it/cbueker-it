@@ -1,33 +1,34 @@
-Hello! My name is **Christopher Bueker**. I work as an IT Technician with a background in digital and inbound marketing, technical SEO, and web systems administration.
+Hello! My name is **Christopher Bueker**. I'm an IT Technician with experience in infrastructure operations, enterprise monitoring, data center checks, and technical support. My background also includes digital and inbound marketing, technical SEO, and web systems administration.
 
-I enjoy understanding how IT infrastructure, operating systems, networks, websites, and digital technologies work together to support organizations and the people they serve. My interests include installing, configuring, troubleshooting, securing, and optimizing systems to improve reliability, website performance, user experience, and business operations.
+I enjoy understanding how data center infrastructure, operating systems, networks, hardware, and digital technologies work together to support reliable business operations. My interests include monitoring, installing, configuring, troubleshooting, securing, and optimizing systems to improve availability, efficiency, and user experience.
 
 My background brings together IT infrastructure and digital marketing, allowing me to approach business technology from both a technical and customer-focused perspective.
 
 **Areas of Focus**
 
-- IT Infrastructure Operations
+- Data Center Infrastructure and Operations
+- Environmental Monitoring and Cooling Fundamentals
+- Enterprise Monitoring and Incident Response
 - Networking and Connectivity
-- Monitoring and Incident Response
+- IT Infrastructure Operations
 - Structured Troubleshooting
 - Operating System Deployment
 - Endpoint Support
 - Windows and Linux Administration
 - Technical Documentation
-- WordPress
+- WordPress and Web Infrastructure
 - Technical SEO and GEO/AEO
 - Website Hygiene and Performance
 - Conversion Optimization
-- Copywriting
-- Keyword Research
+- Copywriting and Keyword Research
 
 **My IT Portfolio**
 
-My IT portfolio is a collection of related, documented projects that demonstrate my technical skills, digital marketing knowledge, and the investigative process I use to solve real-world technology problems.
+My IT portfolio is a collection of documented projects demonstrating my technical skills, hands-on labs, infrastructure studies, troubleshooting methods, and investigative approach to real-world technology problems.
 
-These projects reflect my interest in connecting technology with business operations to improve systems, support users, and create meaningful organizational value.
+These projects reflect my interest in understanding how physical infrastructure, networks, operating systems, and business technologies work together to support reliable operations and create meaningful organizational value.
 
-**Computer Science and Information Technology** | Independent Technical Study
+**Information Technology and IT Infrastructure** | Independent Technical Study
 
 [`Computer-Science-and-Information-Technology`](https://github.com/cbueker-it/computer-science-and-information-technology): Hands-on labs, technical reading, platform training, and documented troubleshooting projects across operating systems, networking, and enterprise support.
 
