@@ -80,16 +80,6 @@ These projects reflect my interest in understanding how physical infrastructure,
 
 [`HP-printer-network-troubleshooting`](https://github.com/cbueker-it/HP-printer-network-troubleshooting): HP printer network troubleshooting lab covering wireless configuration, DHCP validation, web interface administration, and packet capture analysis using `tshark`.
 
-**Web Engineering | Technical SEO**
-
-[`SunPath-IT-site-migration`](https://github.com/cbueker-it/sunpath-it-site-migration): Business website migration covering WordPress, hosting, DNS, Cloudflare, HTTP 301 redirects, and Linux validation.
-
-[`SunPath-SEO-technical-proof`](https://github.com/cbueker-it/sunpath-seo-technical-proof): Live website technical verification covering performance testing, security header review, HTTP response inspection, DNS validation, and Cloudflare infrastructure awareness.
-
-[`Wordpress-christopherbueker-technical-proof`](https://github.com/cbueker-it/wordpress-christopherbueker-technical-proof): Live WordPress technical proof - improvements in site performance, security header review, HTTP response inspection, DNS verification, and Cloudflare-backed delivery.
-
-[`SunPath-IT-Security-Header-Hardening`](https://github.com/cbueker-it/sunpath-it-security-header-hardening): Live WordPress security hardening, includes HTTP security header configuration through `.htaccess`, verification of an security assessment improvement.
-
 **Systems Administration**
 
 [`Effective-IT-Work-Instructions`](https://github.com/cbueker-it/effective-it-work-instructions): Business guide for creating clear and consistent IT work instructions covering purposeful screenshots, validation, escalation, and operational standardization.
@@ -105,5 +95,15 @@ These projects reflect my interest in understanding how physical infrastructure,
 [`Linux-system-administration-lab`](https://github.com/cbueker-it/linux-system-administration-lab): Ubuntu Linux administration exploration covering system review, resource monitoring, package maintenance, network visibility, and running service inspection. 
 
 [`ServiceNow-incident-management-lab`](https://github.com/cbueker-it/servicenow-incident-management-lab): ServiceNow incident management workflow covering ticket creation, queue review, work note documentation, and incident resolution workflow.
+
+**Web Engineering | Technical SEO**
+
+[`SunPath-IT-site-migration`](https://github.com/cbueker-it/sunpath-it-site-migration): Business website migration covering WordPress, hosting, DNS, Cloudflare, HTTP 301 redirects, and Linux validation.
+
+[`SunPath-SEO-technical-proof`](https://github.com/cbueker-it/sunpath-seo-technical-proof): Live website technical verification covering performance testing, security header review, HTTP response inspection, DNS validation, and Cloudflare infrastructure awareness.
+
+[`Wordpress-christopherbueker-technical-proof`](https://github.com/cbueker-it/wordpress-christopherbueker-technical-proof): Live WordPress technical proof - improvements in site performance, security header review, HTTP response inspection, DNS verification, and Cloudflare-backed delivery.
+
+[`SunPath-IT-Security-Header-Hardening`](https://github.com/cbueker-it/sunpath-it-security-header-hardening): Live WordPress security hardening, includes HTTP security header configuration through `.htaccess`, verification of an security assessment improvement.
 
 [My LinkedIn Profile](https://linkedin.com/in/christopherbueker)
